@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<!-- Network topo 1  -->
+<Processes>
+ 
+	<Process id ="1" IPAddress = "129.21.22.196"  EventPort="1234" SnapshotPort="3001"/>
+	<Process id ="2" IPAddress = "129.21.30.37" EventPort ="1235"  SnapshotPort="3002"/>
+	<Process id ="3" IPAddress = "129.21.34.80" EventPort="1236"  SnapshotPort="3003"/>
+	
+</Processes>	
